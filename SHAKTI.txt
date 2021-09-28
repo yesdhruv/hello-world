@@ -1,0 +1,12 @@
+microprocessor_Shakti
+
+India’s home-grown computer microprocessor ‘Shakti’ would henceforth be available for techies across the world, to design their own Embedded systems. This is possible owing to a collaboration between the IIT Madras, which designed and developed Shakti and US-based global technology company Altair.
+
+An Embedded system is a small device that forms a part of a larger system and its purpose is to control the system and also interact with the user. Embedded systems have only one or a few limited tasks that they can perform. 
+For more than three decades, Altair Embed has been a reliable platform for developing algorithms for complex embedded systems. It offers thousands of pre-built models that cover a wide range of engineering disciplines. Altair Embed supports more than 1200 microcontrollers and processors from leading vendors, including Texas Instruments, STMicroelectronics, Arduino, and Raspberry Pi. India’s home-grown microprocessor Shakti has also joined this list. 
+
+Shakti processors are industrial-grade processors aimed at embedded applications, robotic controllers, and Internet of Things boards. By supporting Shakti processors, Altair Embed broadens its presence in developing embedded firmware for internet-connected devices.
+India’s first indigenous RISC-V processor, ‘Shakti’ is backed by the country’s Ministry of Electronics and Information Technology, and Pratap Subrahmanyam Centre for Digital Intelligence and Secure Hardware Architecture. It is meant to promote indigenous development of products that offer best-in-class security and visibility for users adopting the RISC-V technology.
+
+Prof. V. Kamakoti, Department of Computer Science and Engineering, IIT Madras, explained that every Embedded system comprises a microprocessor and software executing on the same. He added that the collaboration between the Institute and Altair platform provides the framework to develop software, such that it is executable on the Shakti processor. “This enables rapid translation of ideas into working systems for embedded system driven Industry and especially startups. We expect a significant increase in usage of Shakti based on this collaboration” 
+Credit — Media
